@@ -1,2 +1,4 @@
-# ComingSoon
-Coming Soon Site Template.
+# Coming Soon
+
+A simple coming soon page in React.
+
